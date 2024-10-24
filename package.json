@@ -1,6 +1,6 @@
 {
   "name": "crunchzapp-js-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package for CrunchzApp WhatsApp integration",
   "keywords": [
     "whatsapp",
