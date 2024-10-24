@@ -1,0 +1,19 @@
+{
+  "name": "crunchzapp-js-sdk",
+  "version": "1.0.0",
+  "description": "Package for CrunchzApp WhatsApp integration",
+  "keywords": [
+    "whatsapp",
+    "otp",
+    "marketing",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
