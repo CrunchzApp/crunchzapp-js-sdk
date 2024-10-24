@@ -9,9 +9,20 @@
     "typescript"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
-  "author": "",
+  "homepage": "https://github.com/CrunchzApp/crunchzapp-js-sdk",
+  "bugs": {
+    "url": "https://github.com/CrunchzApp/crunchzapp-js-sdk/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrunchzApp/crunchzapp-js-sdk.git"
+  },
+  "files": ["dist"],
+  "type": "module",
+  "author": "CrunchzApp <developer@crunchz.app> (https://www.crunchz.app)",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.6.3"
